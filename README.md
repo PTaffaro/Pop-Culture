@@ -10,7 +10,7 @@
 #### Introduction
 text
 <param ve-image
-	url="https://github.com/emkayyou/essays/blob/main/image0.jpeg?raw=true"
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fortnite_cosplay_at_E3_2018.jpg/1600px-Fortnite_cosplay_at_E3_2018.jpg?20180714054052"
 	label="Pecans Having a Disagreement, courtesy of Allison Caban"
 	description="Pecans discuss how to call themselves"
 	license="Courtesy of Allison Caban">
