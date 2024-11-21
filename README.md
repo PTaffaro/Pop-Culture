@@ -4,7 +4,7 @@
 <param ve-config
        title="The Fortnite Community"
        author="Paolo Taffaro"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fortnite_at_E3_2018_side_front_1.jpg/1600px-Fortnite_at_E3_2018_side_front_1.jpg?20180714053914"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fortnite_cosplay_at_E3_2018.jpg/1600px-Fortnite_cosplay_at_E3_2018.jpg?20180714054052"
        layout="vertical">
 
 #### Introduction
