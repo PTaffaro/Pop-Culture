@@ -2,9 +2,9 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
-       title="Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity"
-       author="MaryKathryn Underwood, Stefania Rocca, and Paolo Taffaro"
-       banner="https://upload.wikimedia.org/wikipedia/commons/8/89/Georgia%2C_historical_and_industrial_%281901%29_%2814593605160%29.jpg"
+       title="The Fortnite Community"
+       author="Paolo Taffaro"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fortnite_at_E3_2018_side_front_1.jpg/1600px-Fortnite_at_E3_2018_side_front_1.jpg?20180714053914"
        layout="vertical">
 
 #### Pies and Pronunciation  
