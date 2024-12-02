@@ -58,11 +58,11 @@ One of the major artifacts from the Fortnite community is the virtual phenomenon
 
 Alternatively, Demi recounted some of the events which she has participated in during her own Fortnite engagement. She shared: “So I'd wake up at like 8 AM just to watch like Inception on Fortnite with my friends…it was like you were watching your character watch the movie on a screen.”  In fact, Fortnite has screened other films during an event known as “Movie Nite,” including Christopher Nolan’s The Dark Knight and The Prestige.  Demi also mentioned how she attended a live in-game concert hosted by Ariana Grande “that happened when I was in high school.” Interestingly, while she acknowledged that it is kind of “weird” to watch your avatar watch something real or live, she emphasized: “I honestly just love having like a place to like connect with my friends, even if I can't connect with them in person.”
 <param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Illinois%2C_historical_and_statistical_-_comprising_the_essential_facts_of_its_planting_and_growth_as_a_province%2C_county%2C_territory%2C_and_state_%281889%29_%2814592501177%29.jpg"
-	label="Illustrated Map of Mississippi River and Kaskaskia village"
-	description="This illustrated map shows where Marest was working"
-	license="CC0"
-	region="-600,2,3004,2808">
+	url="https://github.com/user-attachments/assets/294f5960-c8ea-474c-ac6e-4ccbdf6cfd2a"
+	label="Live Ariana Grande Event on Fortnite"
+	description="Image of Arian Grande Concert on Fortnite"
+	license="CC BY-SA 2.0"
+	fit="contain">
 
 To give an idea of the scale of these virtual social events, we can point out some prominent examples. During a live concert hosted by DJ Marshmello in February 2019, approximately 10 million members of the Fortnite community tuned in. In light of this, Patrick Shanley explains that “Not only does Fortnite encourage players to hone their skills in competitive matches, but it also offers activities for people who just want to hang out in its virtual world.”  For reference, the most-attended live in-person concert to date was about 3.5 million people.  This comparison points to the reality that unlike in-person spaces, virtual space provides seemingly unlimited capacity with a sense of being close to the action.
 <param ve-image
