@@ -167,8 +167,8 @@ type="audio/mp3">Noah's recording</video>
      controls
      preload=”auto”
      poster=”//vjs.zencdn.net/v/oceans.png”
-     data-setup=’{https://github.com/user-attachments/assets/f3cbdba9-e90f-4bbf-958a-9c60f0e5226c}’>
-     <source src=”https://www.youtube.com/watch?v=_VwKvS6QpsI" type=”video/mp4">example</source>
+     data-setup=’{}’>
+     <source src=”https://github.com/user-attachments/assets/f3cbdba9-e90f-4bbf-958a-9c60f0e5226c" type=”video/mp4">example</source>
    </video>
 
 
