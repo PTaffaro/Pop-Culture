@@ -161,6 +161,13 @@ In the collective experience of Fortnite players, the artifact that stands out t
 	license="CC0"
 	fit="contain">
 
+*Zoe highlights how Fortnite is able to engage a broader player base.*
+<param ve-iframe
+	label="Zoe's long recording"
+	description="Zoe on broadening the Fortnite community"
+	license="Courtesy of Zoe Smith"
+	src="https://github.com/user-attachments/assets/4ded5aaf-14f6-4329-b7f8-878d48f6a1af">
+
 The element of communal competition was highlighted by Juan and Noah. For example, Noah, who shared that “I don’t play video games by myself,” emphasized how “the teamwork” and “the interaction you can have with other players” contributes to his experience of fun. Similarly, Juan shared that, while he at first didn’t enjoy “getting annihilated by probably 12-year-olds online,” playing the game with others showed him “it was fun to coordinate and to work as a team.” Their experience of communal competition demonstrates the localized way that Fortnite gamers play. Juan pointed out that sometimes this localized experience of Fortnite competition can grow into what gamers call “LAN Parties.” These “local area network parties” allow players to be physically present with each other while they play together virtually online. As Moore and Carter assert, “Fortnite becomes a vehicle for the accumulation and performance of social capital, both online through gameplay but also offline through the demonstration of expertise about the gameworld or game practices.”  Moreover, Noah discussed how localized gameplay language can result from these in-person sessions, giving the example of how he and his friends initiate gameplay by asking others if they want to get “dubs,” which is a play on “wins.” Similarly, Juan gave the example of the term “get juicy,” which means “play Fortnite competitively” and which is inspired by the “chug jugs” players can drink to recuperate their health in the game.  Thus, the Fortnite community’s competition is also an act of competitive literacy whereby players learn “to translate the words they use into effective decisions embodied by moves on the screen, which are visible to other gamers.”
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
