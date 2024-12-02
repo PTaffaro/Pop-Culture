@@ -15,9 +15,9 @@ Since Epic Games launched Fortnite in September 2017, it has seen an explosion o
 
 Fortnite’s most popular Battle Royale game is a first-person shooter in which players drop from a flying bus onto a fixed island map with 99 other players. The object of the game is to be the last remaining player on the island by collecting items such as guns and med kits necessary for eliminating other players and restoring one’s own health. Yet, different from the more violent shooting games such as Call of Duty or Grand Theft Auto, Fortnite offers “a more cartoony, tongue-in-cheek type of experience” that appeals to a broader gamer base.  In fact, players can choose to dress their character in different “skins,” many of which are taken from mainstream popular culture. Fortnite seems to have been able to attract a diverse body of gamers “by integrating a free-to-play revenue model, offering a friendly colorful aesthetic, and facilitating cross-platform gameplay.”  This means that someone is able to play the game and compete without any financial investment, enjoy the game as a fun and quirky engagement with popular culture, and connect with gamers across different consoles. Fortnite, then, becomes a point of interest in understanding the literacies shared among members of its gaming community.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/5/50/Pecan_pie_%288030810481%29.jpg"
-	label="Pecan Pie at Thanksgiving"
-	description="Pecan Pie"
+	url="https://github.com/user-attachments/assets/7ec006b5-9555-4809-9e0c-a7fd8e3a6f2d"
+	label="Fortnite player dropping into the map in Battle Royale"
+	description="Person playing Fortnite"
 	license="CC BY-SA 2.0">
 
 In this study of the Fortnite community, I am interested in developing a deeper understanding of the aspects and elements of gameplay and participation that most capture the experience of the Fortnite community. In other words, what are the literacies and experiences gained by and shared among people who play Fortnite? Through this investigation, I intend to draw out the commonalities across diverse participants and represent the significance of the community’s engagement with popular culture in and beyond the game itself.
