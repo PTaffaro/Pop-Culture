@@ -101,9 +101,9 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Centennial_Exhibi
 
 *Juan discusses the pop culture engagment of Fortnite.*
 <param ve-iframe
-	label="Noah's recording"
-	description="Noah's take on Fortnite"
-	license="Courtesy of Noah Banasiewicz"
+	label="Juan's recording"
+	description="Juan on Pop culture in Fortnite"
+	license="Courtesy of Ryan Cruise"
 	src="https://github.com/user-attachments/assets/73947a06-65d3-4e29-b627-181339cf153b">
 
 Emotes are also an important part of the business model of Fortnite, as players can purchase specific dances from the in-game shop by using the game currency known as “V-Bucks.” As Tibo Shober and Georg Stadtmann highlight, “While the game can be downloaded and played free of charge, an in-game-shop offers a variety of uniforms (‘skins’), parachutes (‘gliders’), or dance moves (‘emotes’).”  Moreover, Shober and Stadtmann explain that “Fortnite picked the right conversion rates to create a high degree of ‘money illusion’” among players, which means that players are disconnected from the actual cost of items in the shop because they are making purchases with a foreign virtual currency.  This illusory financial experience among players pairs with players’ attraction to utilizing cartoon-like emotes, which, for Juan, “lends to being able to talk to people about it in a casual way, and kind of a fun way.” This urge to be a part of the conversation is something that Fortnite seems to tap into in attracting so many players to financially invest in their place in the Fortnite community.
@@ -112,6 +112,13 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Centennial_Exhibi
 	label="Centennial Exposition in Philadelphia, 1876"
 	description="Illustration of Centennial Exposition"
 	license="CC0">
+
+*Demi shares her expereince of playing with friends and pop culture on Fortnite.*
+<param ve-iframe
+	label="Demi's recording"
+	description="Demi on fun of pop culture absurdity in Fortnite"
+	license="Courtesy of Demi Lara"
+	src="https://github.com/user-attachments/assets/e2195904-99e8-4e0e-94bc-08e2a81ac104">
 
 #### Skins: "just to look cool"
 Even more attractive for players is the opportunity to purchase new and unique outfits for their avatar, called “skins.” Some skins can be gained free of charge from playing the game and fulfilling certain quests, but most of them cost V-Bucks in the in-game shop. These skins are one of the most dynamic ways that Fortnite interacts with popular culture. For example, Zoe shared that “They had a like collaboration with Family Guy, which was awesome because like it was really funny to see like Peter Griffin in the game. I think I don't usually spend money on the game, but I think I spent $20 so I could like dress up as Peter.” Zoe is not alone in making “unusual” purchases in the shop. Juan also talked about his purchase of the “Battle Pass” and skins, “solidifying my membership in the Fortnite community.” With a chuckle, he added, “I spend real life money in the game just to look cool.” But this trend of making in game purchases for outfits “just to look cool” belongs to the majority of Fortnite participants, with 77% of players reporting having spent real money in the game.
