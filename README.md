@@ -113,7 +113,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Centennial_Exhibi
 	description="Illustration of Centennial Exposition"
 	license="CC0">
 
-*Demi shares her expereince of playing with friends and pop culture on Fortnite.*
+*Demi shares her experience of playing with friends and pop culture on Fortnite.*
 <param ve-iframe
 	label="Demi's recording"
 	description="Demi on fun of pop culture absurdity in Fortnite"
