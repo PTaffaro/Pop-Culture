@@ -9,9 +9,9 @@
 #### Introduction
 Since Epic Games launched Fortnite in September 2017, it has seen an explosion of participation in the number of players around the world, amounting to 550 million registered users as of 2024.  The gendered participation leans heavy on the male side with nearly 90%, which is not surprising given its status as a first-person shooter. Perhaps what is surprising, though, is the age of participants. From the date of birth on registered accounts, it is calculated that over 60% are between 18 and 24. Of course, this number could be skewed due to children lying about their age but estimates still suggest at least half of the players are over 18. What this indicates is that the stereotype of Fortnite being a game for 12-year-old boys may not tell the whole story of the Fortnite community.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fortnite_cosplay_at_E3_2018.jpg/1600px-Fortnite_cosplay_at_E3_2018.jpg?20180714054052"
-	label="Pecans Having a Disagreement, courtesy of Allison Caban"
-	description="Pecans discuss how to call themselves"
-	license="Courtesy of Allison Caban">
+	label="Fortnite fans dressed up at a cosplay event"
+	description="Fortnite cosplay event"
+	license="Creative Commons">
 
 Fortnite’s most popular Battle Royale game is a first-person shooter in which players drop from a flying bus onto a fixed island map with 99 other players. The object of the game is to be the last remaining player on the island by collecting items such as guns and med kits necessary for eliminating other players and restoring one’s own health. Yet, different from the more violent shooting games such as Call of Duty or Grand Theft Auto, Fortnite offers “a more cartoony, tongue-in-cheek type of experience” that appeals to a broader gamer base.  In fact, players can choose to dress their character in different “skins,” many of which are taken from mainstream popular culture. Fortnite seems to have been able to attract a diverse body of gamers “by integrating a free-to-play revenue model, offering a friendly colorful aesthetic, and facilitating cross-platform gameplay.”  This means that someone is able to play the game and compete without any financial investment, enjoy the game as a fun and quirky engagement with popular culture, and connect with gamers across different consoles. Fortnite, then, becomes a point of interest in understanding the literacies shared among members of its gaming community.
 <param ve-image
@@ -158,18 +158,12 @@ Fortnite participants also engage online via social media by sharing and viewing
 
 #### Conclusion
 
-
-<source src="https://github.com/user-attachments/assets/f3cbdba9-e90f-4bbf-958a-9c60f0e5226c"
-type="audio/mp3">Noah's recording</video>
-<video
-     id=”my-player”
-     class=”video-js”
-     controls
-     preload=”auto”
-     poster=”//vjs.zencdn.net/v/oceans.png”
-     data-setup=’{}’>
-     <source src=”https://github.com/user-attachments/assets/f3cbdba9-e90f-4bbf-958a-9c60f0e5226c" type=”video/mp4">example</source>
-   </video>
+Noah's take
+<param ve-iframe
+	label="Noah's recording"
+	description="Noah's take on Fortnite"
+	license="Courtesy of Noah Banasiewicz"
+	src="https://github.com/user-attachments/assets/f3cbdba9-e90f-4bbf-958a-9c60f0e5226c">
 
 
 In the fullest sense of the word, the Fortnite community plays. From the shared experiences in online events and in-person cooperative gaming to the fun and enjoyment of cartoon representations of pop culture characters and dances, the Fortnite community is marked by its broad openness to new and diverse membership, its balance of playfulness and competition, and the dynamic interplay between real-world cultural artifacts and in-game virtual activities. The interviewees each pointed out that the reason they play Fortnite is because it is a fun way to connect with others. Part of this fun is the gameplay, but more than this is the way Fortnite affords interaction with popular culture. As Gouriou affirms, the pop culture crossovers “tie the fabric of Fortnite into the real world of its player base.”  This tying together of the player’s virtual and real-world experience establishes a communal identity with other Fortnite gamers that is not limited by the time and space of actual gameplay. Instead, the Fortnite community blurs the lines between real and online spaces, occupying a world of its own capable of including competitive combat, colorful costumes, pop stars, music, movies, TV shows, and so much more. At times, Fortnite stereotypes are built upon the characteristics of older video game communities: awkward middle-school boys, lonely and isolated adults, escape from reality, lack of social awareness, ignorance of mainstream pop culture, and engagement with obscure social media content. However, the Fortnite community, while predominantly male, shatters these stereotypes with its unique participation and fascination with pop cultural artifacts, emphasis on community engagement, and appreciation for the silly and childish cartoon fun. Perhaps more than any other gaming community, Fortnite reveals to what extent “playing is a universal human activity.”
