@@ -134,7 +134,7 @@ Even more attractive for players is the opportunity to purchase new and unique o
 	label="Zoe's short recording"
 	description="Zoe responding to people who doubt her love of Fortnite"
 	license="Courtesy of Zoe Smith"
-	src="https://github.com/user-attachments/assets/73681603-68ab-42e2-86da-111557827ca7">
+	src="https://github.com/user-attachments/assets/22b0019c-6c40-4796-b93b-c7e6141de5eb">
 
 Part of the appeal of Fortnite for its participants is that the skins allow for blending of pop culture artifacts. Noah, for instance, stated that Fortnite is “a place where I think there's a huge blending of the pop culture so like you could be Iron Man, but you're like dancing to a Bruno Mars song.” This capacity to blend pop culture characters, music, and dances adds to the fun and silliness of the cartoon feel. For this reason, Zoe praised the game, saying, “It doesn’t seem like the game cares about anything except like being fun.” Juan also shared this sensibility. When asked what makes the game so attractive, he said, “You can be a fish, or you can be a banana. It doesn't matter. You can play as any character, and you can dance.” For all the interviewees, whether they play as Peter Griffin, Bruno Mars, or a banana, the absurdity of using pop culture likenesses and dances while participating in an unrealistic, cartoony fight to the death with friends makes Fortnite a place where they can be silly and goofy. As Demi put it, “It’s just fun that way.”
 <param ve-image
