@@ -99,6 +99,13 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Centennial_Exhibi
 	description="Illustration of Centennial Exposition"
 	license="CC0">
 
+*Juan discusses the pop culture engagment of Fortnite.*
+<param ve-iframe
+	label="Noah's recording"
+	description="Noah's take on Fortnite"
+	license="Courtesy of Noah Banasiewicz"
+	src="https://github.com/user-attachments/assets/73947a06-65d3-4e29-b627-181339cf153b">
+
 Emotes are also an important part of the business model of Fortnite, as players can purchase specific dances from the in-game shop by using the game currency known as “V-Bucks.” As Tibo Shober and Georg Stadtmann highlight, “While the game can be downloaded and played free of charge, an in-game-shop offers a variety of uniforms (‘skins’), parachutes (‘gliders’), or dance moves (‘emotes’).”  Moreover, Shober and Stadtmann explain that “Fortnite picked the right conversion rates to create a high degree of ‘money illusion’” among players, which means that players are disconnected from the actual cost of items in the shop because they are making purchases with a foreign virtual currency.  This illusory financial experience among players pairs with players’ attraction to utilizing cartoon-like emotes, which, for Juan, “lends to being able to talk to people about it in a casual way, and kind of a fun way.” This urge to be a part of the conversation is something that Fortnite seems to tap into in attracting so many players to financially invest in their place in the Fortnite community.
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Centennial_Exhibition%2C_Opening_Day.jpg/1600px-Centennial_Exhibition%2C_Opening_Day.jpg?20130904002231"
