@@ -81,7 +81,7 @@ Another significant part of the Fortnite experience is the countless emotes avai
 	label="Fortnite dances in real life"
 	description="Fortnite dances in real life"
 	license="Public Domain"
-	src="https://www.youtube.com/watch?v=wwXhm5F6Zcc">
+	src="https://www.youtube.com/embed/wwXhm5F6Zcc">
 
 During one interview, Juan playfully told me about his enjoyment of the emote feature of the game. He said that one of his favorite emotes plays Rick Astley’s “Never Gonna Give You Up” while the avatar performs “this dance from the music video from the 80s,” which, he says, “was made for people of my generation.” He also shared that there are at least three ways people tend to utilize the emote feature. The first way is when players eliminate another player. To celebrate their momentary triumph and to taunt the other player (whose screen is now viewing the player who eliminated them), most players play their favorite emote. A second way emotes are used is to acknowledge defeat in a one-on-one battle. He said that sometimes a player will “bow down” to the other by halting fire and beginning to dance. Finally, a third use for emotes comes when someone wins. There is a Victory Royale “icon that pops up, and there’s this whole like sound that goes with it.” Many players utilize this moment of victory to celebrate with their favorite emote. Juan noted further that players usually have certain emotes that they like to use for certain situations, which serves to add to their sense of personal gamer identity.
 <param ve-image
