@@ -58,9 +58,9 @@ One of the major artifacts from the Fortnite community is the virtual phenomenon
 
 Alternatively, Demi recounted some of the events which she has participated in during her own Fortnite engagement. She shared: “So I'd wake up at like 8 AM just to watch like Inception on Fortnite with my friends…it was like you were watching your character watch the movie on a screen.”  In fact, Fortnite has screened other films during an event known as “Movie Nite,” including Christopher Nolan’s The Dark Knight and The Prestige.  Demi also mentioned how she attended a live in-game concert hosted by Ariana Grande “that happened when I was in high school.” Interestingly, while she acknowledged that it is kind of “weird” to watch your avatar watch something real or live, she emphasized: “I honestly just love having like a place to like connect with my friends, even if I can't connect with them in person.”
 <param ve-image
-	url="https://github.com/user-attachments/assets/294f5960-c8ea-474c-ac6e-4ccbdf6cfd2a"
-	label="Live Ariana Grande Event on Fortnite"
-	description="Image of Ariana Grande Concert on Fortnite"
+	url="https://static.wikia.nocookie.net/fortnite/images/5/51/Rift_Tour_%28Featuring_Ariana_Grande%29_-_Promo_-_Fortnite.jpg/revision/latest?cb=20210801180755"
+	label="Live Ariana Grande Event on Fortnite in 2021"
+	description="Advertisement of Ariana Grande Concert on Fortnite"
 	license="CC BY-SA 2.0"
 	fit="contain">
 
