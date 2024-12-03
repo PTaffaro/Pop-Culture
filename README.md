@@ -72,7 +72,7 @@ Additionally, Travis Scott hosted a live in-game concert with Fortnite that boas
 	label="Juan's recording"
 	description="Juan on Pop culture in Fortnite"
 	license="Courtesy of Ryan Cruise"
-	src="https://www.youtube.com/watch?v=g__AuDSfPkU">
+	src="https://www.youtube.com/watch?v=cq3iYRr2q3U">
        
 #### Emotes: "the goofiness in the game itself"
 Another significant part of the Fortnite experience is the countless emotes available to players. Emotes are dances or gestures that players can make their avatars perform in the game. The dances are accompanied by music, and some of them can even be done as a duet with other players. These dances and gestures help provide the Fortnite community with a way to interact with one another in and outside the game. It is, as Noah puts it, part of “the absurdity” and “the goofiness of the game itself.” These emotes are intimately tied to popular media scrolling platforms such as TikTok and Instagram. In fact, according to Ali Johnson and Lauren Hutton-work, there have even been lawsuits concerning whether Fortnite violated copyright law in creating equivalents to many popular TikTok or Instagram dances in the mainstream media.  For our conversation, it is enough to recognize that this conflict results from the interrelationship between mainstream pop culture and the Fortnite community.
