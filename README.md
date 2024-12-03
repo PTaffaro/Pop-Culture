@@ -130,10 +130,10 @@ Emotes are also an important part of the business model of Fortnite, as players 
 #### Skins: "just to look cool"
 Even more attractive for players is the opportunity to purchase new and unique outfits for their avatar, called “skins.” Some skins can be gained free of charge from playing the game and fulfilling certain quests, but most of them cost V-Bucks in the in-game shop. These skins are one of the most dynamic ways that Fortnite interacts with popular culture. For example, Zoe shared that “They had a like collaboration with Family Guy, which was awesome because like it was really funny to see like Peter Griffin in the game. I think I don't usually spend money on the game, but I think I spent $20 so I could like dress up as Peter.” Zoe is not alone in making “unusual” purchases in the shop. Juan also talked about his purchase of the “Battle Pass” and skins, “solidifying my membership in the Fortnite community.” With a chuckle, he added, “I spend real life money in the game just to look cool.” But this trend of making in game purchases for outfits “just to look cool” belongs to the majority of Fortnite participants, with 77% of players reporting having spent real money in the game.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
-	label="Louisiana - U.S. Department of Agriculture Exprimental Pecan Farm"
-	description="contained pecan farm in Louisiana, 1917-1964"
-	license="CC0"
+	url="https://static.wikia.nocookie.net/fortnite/images/e/ef/Chapter_5_Season_1_-_Concept_Art_-_Fortnite.jpg/revision/latest?cb=20240713221243"
+	label="Fortnite offers a variety of skins, including Peter Griffin"
+	description="Fortnite cover including Peter Griffin"
+	license="CC BY-SA 2.0"
 	fit="contain">
 
 *Zoe's response to the Fortnite stereotype.*
