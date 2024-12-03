@@ -9,10 +9,11 @@
 
 #### Introduction
 Since Epic Games launched Fortnite in September 2017, it has seen an explosion of participation in the number of players around the world, amounting to 550 million registered users as of 2024.  The gendered participation leans heavy on the male side with nearly 90%, which is not surprising given its status as a first-person shooter. Perhaps what is surprising, though, is the age of participants. From the date of birth on registered accounts, it is calculated that over 60% are between 18 and 24. Of course, this number could be skewed due to children lying about their age but estimates still suggest at least half of the players are over 18. What this indicates is that the stereotype of Fortnite being a game for 12-year-old boys may not tell the whole story of the Fortnite community.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fortnite_cosplay_at_E3_2018.jpg/1600px-Fortnite_cosplay_at_E3_2018.jpg?20180714054052"
-	label="Fortnite fans dressed up at a cosplay event"
-	description="Fortnite cosplay event"
-	license="CC BY-SA 2.0"
+<param ve-image
+	url="https://github.com/user-attachments/assets/6d9a1956-fe58-4a4e-b6df-d5be72260cf3"
+	label="Virtual Fortnite Community"
+	description="Fortnite cover/loading screen"
+	license="Courtesy of Deka Chavid"
 	fit="contain">
 
 Fortnite’s most popular Battle Royale game is a first-person shooter in which players drop from a flying bus onto a fixed island map with 99 other players. The object of the game is to be the last remaining player on the island by collecting items such as guns and med kits necessary for eliminating other players and restoring one’s own health. Yet, different from the more violent shooting games such as Call of Duty or Grand Theft Auto, Fortnite offers “a more cartoony, tongue-in-cheek type of experience” that appeals to a broader gamer base.  In fact, players can choose to dress their character in different “skins,” many of which are taken from mainstream popular culture. Fortnite seems to have been able to attract a diverse body of gamers “by integrating a free-to-play revenue model, offering a friendly colorful aesthetic, and facilitating cross-platform gameplay.”  This means that someone is able to play the game and compete without any financial investment, enjoy the game as a fun and quirky engagement with popular culture, and connect with gamers across different consoles. Fortnite, then, becomes a point of interest in understanding the literacies shared among members of its gaming community.
@@ -32,11 +33,10 @@ In this study of the Fortnite community, I am interested in developing a deeper 
 	fit="contain">
 
 To this end, it is important for me to acknowledge my positionality within the Fortnite community and in conducting this investigation. As a casual Fortnite gamer myself, I have my own personal experience and perspective which colors and shapes my own understanding of what it means to belong to the Fortnite community. Nevertheless, I have decided to conduct this research as an outsider looking in. Thus, expositions and explanations will be based on the experiences and perspectives of others, but analysis of my findings will be my own.
-<param ve-image
-	url="https://github.com/user-attachments/assets/6d9a1956-fe58-4a4e-b6df-d5be72260cf3"
-	label="Virtual Fortnite Community"
-	description="Fortnite cover/loading screen"
-	license="Courtesy of Deka Chavid"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fortnite_cosplay_at_E3_2018.jpg/1600px-Fortnite_cosplay_at_E3_2018.jpg?20180714054052"
+	label="Fortnite fans dressed up at a cosplay event"
+	description="Fortnite cosplay event"
+	license="CC BY-SA 2.0"
 	fit="contain">
 
 #### Methodology
