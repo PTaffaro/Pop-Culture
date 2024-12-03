@@ -11,7 +11,7 @@
 Since Epic Games launched Fortnite in September 2017, it has seen an explosion of participation in the number of players around the world, amounting to 550 million registered users as of 2024.  The gendered participation leans heavy on the male side with nearly 90%, which is not surprising given its status as a first-person shooter. Perhaps what is surprising, though, is the age of participants. From the date of birth on registered accounts, it is calculated that over 60% are between 18 and 24. Of course, this number could be skewed due to children lying about their age but estimates still suggest at least half of the players are over 18. What this indicates is that the stereotype of Fortnite being a game for 12-year-old boys may not tell the whole story of the Fortnite community.
 <param ve-image
 	url="https://github.com/user-attachments/assets/6d9a1956-fe58-4a4e-b6df-d5be72260cf3"
-	label="Virtual Fortnite Community"
+	label="Fortnite cover art"
 	description="Fortnite cover/loading screen"
 	license="Courtesy of Deka Chavid"
 	fit="contain">
