@@ -17,14 +17,16 @@ Since Epic Games launched Fortnite in September 2017, it has seen an explosion o
 	fit="contain">
 
 Fortnite’s most popular Battle Royale game is a first-person shooter in which players drop from a flying bus onto a fixed island map with 99 other players. The object of the game is to be the last remaining player on the island by collecting items such as guns and med kits necessary for eliminating other players and restoring one’s own health. Yet, different from the more violent shooting games such as Call of Duty or Grand Theft Auto, Fortnite offers “a more cartoony, tongue-in-cheek type of experience” that appeals to a broader gamer base.  In fact, players can choose to dress their character in different “skins,” many of which are taken from mainstream popular culture. Fortnite seems to have been able to attract a diverse body of gamers “by integrating a free-to-play revenue model, offering a friendly colorful aesthetic, and facilitating cross-platform gameplay.”  This means that someone is able to play the game and compete without any financial investment, enjoy the game as a fun and quirky engagement with popular culture, and connect with gamers across different consoles. Fortnite, then, becomes a point of interest in understanding the literacies shared among members of its gaming community.
-<param ve-image
-	url="https://github.com/user-attachments/assets/753d2728-5e0c-4b4b-851e-f7bf0af5d900"
-	label="Fortnite player dropping into the map in Battle Royale"
-	description="Person playing Fortnite"
-	license="Courtesy of Whelsko"
-	fit="contain">
+<param ve-iframe src="https://books.google.com/books?id=HiSmDwAAQBAJ&newbks=0&lpg=PP1&dq=fortnite&pg=PP1&output=embed">
 
 In this study of the Fortnite community, I am interested in developing a deeper understanding of the aspects and elements of gameplay and participation that most capture the experience of the Fortnite community. In other words, what are the literacies and experiences gained by and shared among people who play Fortnite? Through this investigation, I intend to draw out the commonalities across diverse participants and represent the significance of the community’s engagement with popular culture in and beyond the game itself.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fortnite_cosplay_at_E3_2018.jpg/1600px-Fortnite_cosplay_at_E3_2018.jpg?20180714054052"
+	label="Fortnite fans dressed up at a cosplay event"
+	description="Fortnite cosplay event"
+	license="CC BY-SA 2.0"
+	fit="contain">
+
+To this end, it is important for me to acknowledge my positionality within the Fortnite community and in conducting this investigation. As a casual Fortnite gamer myself, I have my own personal experience and perspective which colors and shapes my own understanding of what it means to belong to the Fortnite community. Nevertheless, I have decided to conduct this research as an outsider looking in. Thus, expositions and explanations will be based on the experiences and perspectives of others, but analysis of my findings will be my own.
 <param ve-image
 	url="https://github.com/user-attachments/assets/5ea50f98-dd89-426c-b5fa-4ee34706dace"
 	label="Player view of the pre-game lobby in Fortnite"
@@ -32,21 +34,14 @@ In this study of the Fortnite community, I am interested in developing a deeper 
 	license="Courtesy of Whelsko"
 	fit="contain">
 
-To this end, it is important for me to acknowledge my positionality within the Fortnite community and in conducting this investigation. As a casual Fortnite gamer myself, I have my own personal experience and perspective which colors and shapes my own understanding of what it means to belong to the Fortnite community. Nevertheless, I have decided to conduct this research as an outsider looking in. Thus, expositions and explanations will be based on the experiences and perspectives of others, but analysis of my findings will be my own.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fortnite_cosplay_at_E3_2018.jpg/1600px-Fortnite_cosplay_at_E3_2018.jpg?20180714054052"
-	label="Fortnite fans dressed up at a cosplay event"
-	description="Fortnite cosplay event"
-	license="CC BY-SA 2.0"
-	fit="contain">
-
 #### Methodology
 My investigation utilized a methodological approach which combined three types of research: interviews with self-identified Fortnite gamers, observation of groups actively playing Fortnite, and dialogue with current scholarship on Fortnite. There were four interviews conducted via Zoom with a semi-structured questioning sequence highlighting the origin of participation, types of current engagement, literacies gained through participation, and testimonials concerning why they find the game attractive. Since previous scholarly conversation tends to focus on the experience of minors, I selected four young adults to be interviewed: Juan (29, male), Noah (26, male), Zoe (20, female), and Demi (21, female). Each of them self-identified as people who both play and talk about Fortnite on a regular basis. Additionally, I observed a group of four Fortnite players and another group of two players for an approximate total of 2.5 hours (or 10 rounds of Fortnite Battle Royale). Through a review of the interview contents and observation notes, three overarching themes organically emerged: community, fun, and pop culture. Additionally, of the myriad artifacts contained within the world of Fortnite, I chose to highlight the four which best characterized the collective experience of the four interviewees: (1) events, (2) emotes, (3) skins, and (4) competition. I then grouped interviewees according to the artifacts they identified as most significant and put these experiences in dialogue with the previous literature on Fortnite and its membership. By giving voice to its participants, I was able to better describe and analyze the meaning of Fortnite community membership.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Starr-110415-5164-Carya_illinoinensis-cracked_seeds_from_tree_at_MISC_HQ_Piiholo-Hawea_Pl_Olinda-Maui_%2824455970883%29.jpg/640px-Starr-110415-5164-Carya_illinoinensis-cracked_seeds_from_tree_at_MISC_HQ_Piiholo-Hawea_Pl_Olinda-Maui_%2824455970883%29.jpg"
-	label="Cracked pecan shells"
-	description="This photo shows cracked pecan shells, demonstrating Native pecan foraging techniques."
-	license="CC0"
-	region="129,21,432,404">
+	url="https://github.com/user-attachments/assets/753d2728-5e0c-4b4b-851e-f7bf0af5d900"
+	label="Fortnite player dropping into the map in Battle Royale"
+	description="Person playing Fortnite"
+	license="Courtesy of Whelsko"
+	fit="contain">
  
 #### Events: "watching your character watch"
 One of the major artifacts from the Fortnite community is the virtual phenomenon of in-game events. These events are either live or limited time moments when players can participate in activities such as concerts, map changes, and character unveilings. For example, Noah brought up his experience of engaging with the Silk Sonic feature and the subsequent unveiling of Bruno Mars and Anderson .Paak as characters in the game. He said that events and subsequent unveilings like this help to keep the game “fun and fresh.” Noah also added that Fortnite has added so much actual pop culture music that “there’s even a radio station.” Players can actually listen to this radio station while they drive cars during gameplay or wait in the pre-game lobby.
@@ -71,6 +66,7 @@ To give an idea of the scale of these virtual social events, we can point out so
 	description="Michaux's book on Trees of North America"
 	license="CC0"
 	fit="contain">
+<param ve-iframe src="https://books.google.com/books?id=HiSmDwAAQBAJ&newbks=0&lpg=PP1&dq=fortnite&pg=PP1&output=embed">
 
 Additionally, Travis Scott hosted a live in-game concert with Fortnite that boasted a staggering 12.3 million viewers.  Moreover, because of the freemium business model Fortnite proffers, these concerts are among the plethora of free activities. This capacity of Fortnite to offer free opportunities for massive online connection adds to the game’s communal dimension. As Rick Marlatt observes, “Rather than operating as individuals in isolated structures, participation in Fortnite implies active communal membership in the game’s ever-expanding, global neighborhood.”  For Noah and Demi, as well as for the others, Fortnite has been a site of communal fun as they enjoy popular culture movies and music mediated through an experience of gameplay.
 <param ve-image
