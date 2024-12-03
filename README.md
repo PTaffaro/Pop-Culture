@@ -111,12 +111,14 @@ Emotes are also an important part of the business model of Fortnite, as players 
 	url="https://static.wikia.nocookie.net/fortnite/images/5/54/Royale_Originals_Item_Shop.png/revision/latest?cb=20240825111034"
 	label="In-game shop where players can purchase items using V-Bucks"
 	description="Item shop in Fortnite"
-	license="CC BY-SA 2.0">
- <param ve-image
+	license="CC BY-SA 2.0"
+	fit="contain">
+<param ve-image
 	url="https://static.wikia.nocookie.net/fortnite/images/9/91/Take_Your_Stage_Item_Shop.png/revision/latest?cb=20240825111709"
 	label="In-game shop where players can purchase items using V-Bucks"
 	description="Item shop in Fortnite"
-	license="CC BY-SA 2.0">
+	license="CC BY-SA 2.0"
+	fit="contain">
 
 *Demi shares her experience of playing with friends and pop culture on Fortnite.*
 <param ve-iframe
