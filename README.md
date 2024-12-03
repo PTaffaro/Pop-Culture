@@ -49,7 +49,7 @@ My investigation utilized a methodological approach which combined three types o
 	region="129,21,432,404">
  
 #### Events: "watching your character watch"
-One of the major artifacts from the Fortnite community is the virtual phenomenon of in-game events. These events are either live or limited time moments when players can participate in activities such as concerts, map changes, and character unveilings. For example, Noah brought up his experience of engaging with the Silk Sonic feature and the subsequent unveiling of Bruno Mars and Anderson Pak as characters in the game. He said that events and subsequent unveilings like this help to keep the game “fun and fresh.” Noah also added that Fortnite has added so much actual pop culture music that “there’s even a radio station.” Players can actually listen to this radio station while they drive cars during gameplay or wait in the pre-game lobby.
+One of the major artifacts from the Fortnite community is the virtual phenomenon of in-game events. These events are either live or limited time moments when players can participate in activities such as concerts, map changes, and character unveilings. For example, Noah brought up his experience of engaging with the Silk Sonic feature and the subsequent unveiling of Bruno Mars and Anderson .Paak as characters in the game. He said that events and subsequent unveilings like this help to keep the game “fun and fresh.” Noah also added that Fortnite has added so much actual pop culture music that “there’s even a radio station.” Players can actually listen to this radio station while they drive cars during gameplay or wait in the pre-game lobby.
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/2/23/Expedition_Cabeza_de_Vaca_Karte.png"
 	label="Mao of Cabeza de Vaca Expedition"
@@ -60,7 +60,7 @@ Alternatively, Demi recounted some of the events which she has participated in d
 <param ve-image
 	url="https://github.com/user-attachments/assets/294f5960-c8ea-474c-ac6e-4ccbdf6cfd2a"
 	label="Live Ariana Grande Event on Fortnite"
-	description="Image of Arian Grande Concert on Fortnite"
+	description="Image of Ariana Grande Concert on Fortnite"
 	license="CC BY-SA 2.0"
 	fit="contain">
 
