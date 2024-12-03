@@ -66,15 +66,13 @@ To give an idea of the scale of these virtual social events, we can point out so
 	description="Michaux's book on Trees of North America"
 	license="CC0"
 	fit="contain">
-<param ve-iframe src="https://books.google.com/books?id=HiSmDwAAQBAJ&newbks=0&lpg=PP1&dq=fortnite&pg=PP1&output=embed">
 
 Additionally, Travis Scott hosted a live in-game concert with Fortnite that boasted a staggering 12.3 million viewers.  Moreover, because of the freemium business model Fortnite proffers, these concerts are among the plethora of free activities. This capacity of Fortnite to offer free opportunities for massive online connection adds to the game’s communal dimension. As Rick Marlatt observes, “Rather than operating as individuals in isolated structures, participation in Fortnite implies active communal membership in the game’s ever-expanding, global neighborhood.”  For Noah and Demi, as well as for the others, Fortnite has been a site of communal fun as they enjoy popular culture movies and music mediated through an experience of gameplay.
-<param ve-image
-	url="https://www.biodiversitylibrary.org/pageImage/52292046"
-	label="Pecan Illustration from Michaux's Work"
-	description="Michaux's book on Trees of North America"
-	license="CC0"
-	region="-827,7,4137,3936">
+<param ve-iframe
+	label="Juan's recording"
+	description="Juan on Pop culture in Fortnite"
+	license="Courtesy of Ryan Cruise"
+	src="https://www.youtube.com/watch?v=wYeFAlVC8qU">
        
 #### Emotes: "the goofiness in the game itself"
 Another significant part of the Fortnite experience is the countless emotes available to players. Emotes are dances or gestures that players can make their avatars perform in the game. The dances are accompanied by music, and some of them can even be done as a duet with other players. These dances and gestures help provide the Fortnite community with a way to interact with one another in and outside the game. It is, as Noah puts it, part of “the absurdity” and “the goofiness of the game itself.” These emotes are intimately tied to popular media scrolling platforms such as TikTok and Instagram. In fact, according to Ali Johnson and Lauren Hutton-work, there have even been lawsuits concerning whether Fortnite violated copyright law in creating equivalents to many popular TikTok or Instagram dances in the mainstream media.  For our conversation, it is enough to recognize that this conflict results from the interrelationship between mainstream pop culture and the Fortnite community.
