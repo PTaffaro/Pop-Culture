@@ -70,9 +70,9 @@ To give an idea of the scale of these virtual social events, we can point out so
 Additionally, Travis Scott hosted a [live in-game concert](https://www.youtube.com/watch?v=wYeFAlVC8qU) with Fortnite that boasted a staggering 12.3 million viewers.  Moreover, because of the freemium business model Fortnite proffers, these concerts are among the plethora of free activities. This capacity of Fortnite to offer free opportunities for massive online connection adds to the game’s communal dimension. As Rick Marlatt observes, “Rather than operating as individuals in isolated structures, participation in Fortnite implies active communal membership in the game’s ever-expanding, global neighborhood.”  For Noah and Demi, as well as for the others, Fortnite has been a site of communal fun as they enjoy popular culture movies and music mediated through an experience of gameplay.
 <param ve-image
 	url="https://github.com/user-attachments/assets/72fb35dc-6fb1-4f32-9e4a-ef739fb11998"
-	label="A shot of Travis Scott during his live in-game concert"
+	label="A shot of Travis Scott during his live in-game concert in 2021"
 	description="Travis Scott concert"
-	license="Courtesy of Tatiana Cirisano"
+	license="Need permissions!!"
 	fit="contain">
        
 #### Emotes: "the goofiness in the game itself"
