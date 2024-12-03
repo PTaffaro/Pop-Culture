@@ -61,10 +61,10 @@ Alternatively, Demi recounted some of the events which she has participated in d
 
 To give an idea of the scale of these virtual social events, we can point out some prominent examples. During a live concert hosted by DJ Marshmello in February 2019, approximately 10 million members of the Fortnite community tuned in. In light of this, Patrick Shanley explains that “Not only does Fortnite encourage players to hone their skills in competitive matches, but it also offers activities for people who just want to hang out in its virtual world.”  For reference, the most-attended live in-person concert to date was about 3.5 million people.  This comparison points to the reality that unlike in-person spaces, virtual space provides seemingly unlimited capacity with a sense of being close to the action.
 <param ve-image
-	url="file:///C:/Users/PaoloTaffaroSJ/Downloads/Fortnite%20and%20the%20digital%20attention%20economy%20-%20shanley.pdf"
-	label="Pecan Illustration from Michaux's Work"
-	description="Michaux's book on Trees of North America"
-	license="CC0"
+	url="https://github.com/user-attachments/assets/4fb77a47-264d-4b8c-87e0-c10f7059ca1b"
+	label="Patrick Shanley reports on the social power of Fortnite's in-game events"
+	description="Patrick Shanley on Fortnite in The Hollywood Reporter"
+	license="Need permissions!!"
 	fit="contain">
 
 Additionally, Travis Scott hosted a [live in-game concert](https://www.youtube.com/watch?v=wYeFAlVC8qU) with Fortnite that boasted a staggering 12.3 million viewers.  Moreover, because of the freemium business model Fortnite proffers, these concerts are among the plethora of free activities. This capacity of Fortnite to offer free opportunities for massive online connection adds to the game’s communal dimension. As Rick Marlatt observes, “Rather than operating as individuals in isolated structures, participation in Fortnite implies active communal membership in the game’s ever-expanding, global neighborhood.”  For Noah and Demi, as well as for the others, Fortnite has been a site of communal fun as they enjoy popular culture movies and music mediated through an experience of gameplay.
