@@ -128,7 +128,7 @@ Emotes are also an important part of the business model of Fortnite, as players 
 	src="https://github.com/user-attachments/assets/e2195904-99e8-4e0e-94bc-08e2a81ac104">
 
 #### Skins: "just to look cool"
-Even more attractive for players is the opportunity to purchase new and unique outfits for their avatar, called “skins.” Some skins can be gained free of charge from playing the game and fulfilling certain quests, but most of them cost V-Bucks in the in-game shop. These skins are one of the most dynamic ways that Fortnite interacts with popular culture. For example, Zoe shared that “They had a like collaboration with Family Guy, which was awesome because like it was really funny to see like Peter Griffin in the game. I think I don't usually spend money on the game, but I think I spent $20 so I could like dress up as <mouseoverzoom eid="1525,287,363,346">Peter</span>.” Zoe is not alone in making “unusual” purchases in the shop. Juan also talked about his purchase of the “Battle Pass” and skins, “solidifying my membership in the Fortnite community.” With a chuckle, he added, “I spend real life money in the game just to look cool.” But this trend of making in game purchases for outfits “just to look cool” belongs to the majority of Fortnite participants, with 77% of players reporting having spent real money in the game.
+Even more attractive for players is the opportunity to purchase new and unique outfits for their avatar, called “skins.” Some skins can be gained free of charge from playing the game and fulfilling certain quests, but most of them cost V-Bucks in the in-game shop. These skins are one of the most dynamic ways that Fortnite interacts with popular culture. For example, Zoe shared that “They had a like collaboration with Family Guy, which was awesome because like it was really funny to see like Peter Griffin in the game. I think I don't usually spend money on the game, but I think I spent $20 so I could like dress up as Peter.” Zoe is not alone in making “unusual” purchases in the shop. Juan also talked about his purchase of the “Battle Pass” and skins, “solidifying my membership in the Fortnite community.” With a chuckle, he added, “I spend real life money in the game just to look cool.” But this trend of making in game purchases for outfits “just to look cool” belongs to the majority of Fortnite participants, with 77% of players reporting having spent real money in the game.
 <param ve-image
 	url="https://static.wikia.nocookie.net/fortnite/images/e/ef/Chapter_5_Season_1_-_Concept_Art_-_Fortnite.jpg/revision/latest?cb=20240713221243"
 	label="Fortnite offers a variety of skins, including Peter Griffin"
@@ -145,28 +145,33 @@ Even more attractive for players is the opportunity to purchase new and unique o
 
 Part of the appeal of Fortnite for its participants is that the skins allow for blending of pop culture artifacts. Noah, for instance, stated that Fortnite is “a place where I think there's a huge blending of the pop culture so like you could be Iron Man, but you're like dancing to a Bruno Mars song.” This capacity to blend pop culture characters, music, and dances adds to the fun and silliness of the cartoon feel. For this reason, Zoe praised the game, saying, “It doesn’t seem like the game cares about anything except like being fun.” Juan also shared this sensibility. When asked what makes the game so attractive, he said, “You can be a fish, or you can be a banana. It doesn't matter. You can play as any character, and you can dance.” For all the interviewees, whether they play as Peter Griffin, Bruno Mars, or a banana, the absurdity of using pop culture likenesses and dances while participating in an unrealistic, cartoony fight to the death with friends makes Fortnite a place where they can be silly and goofy. As Demi put it, “It’s just fun that way.”
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
-	label="Louisiana - U.S. Department of Agriculture Exprimental Pecan Farm"
-	description="contained pecan farm in Louisiana, 1917-1964"
-	license="CC0"
+	url="https://static.wikia.nocookie.net/fortnite/images/f/fc/Peely_%28v30.00%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20240524202045"
+	label="Peely the Banana"
+	description="Peely the Banana"
+	license="CC BY-SA 2.0"
 	fit="contain">
 
 Another aspect of engagement for players is that Fortnite is virtually always changing, updating, and creating content. One of the places where things shift and change often is the in-game shop, where skins are regularly added and removed from the virtual rack. Of course, this is part of Fortnite’s business model, creating a scarcity effect through a limited-time-only approach.  Yet, for fans, this constant change keeps the game interesting. For example, Juan stated that this constant updating and blending of pop culture content “keeps my attention because there’s always something new.” Moreover, as Juan indicated before, purchasing skins solidifies membership in the community, as “Skins are a status symbol among the young generation.”  By dressing their avatar in their favorite skins (rather than playing with the Fortnite stock character), Fortnite players gain a sense of belonging in the community and show their opponents that they are real gamers.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
-	label="Louisiana - U.S. Department of Agriculture Exprimental Pecan Farm"
-	description="contained pecan farm in Louisiana, 1917-1964"
-	license="CC0"
+	url="https://static.wikia.nocookie.net/fortnite/images/2/2a/Item_Shop_Online.png/revision/latest?cb=20240826113319"
+	label="Ariana Grande skin available in the in-game item shop"
+	description="Ariana Grande skin"
+	license="CC BY-SA 2.0"
 	fit="contain">
 
 #### Competition: "anyone can play Fortnite"
-In the collective experience of Fortnite players, the artifact that stands out the most in the community is the competitive dimension of the game. This competition is most immediately on display in Battle Royale, but, for many players, it also extends beyond the game to include the habit of watching professional streamers on YouTube and Twitch as well as the presence of the Fortnite community on platforms like TikTok, Instagram, and Discord. One of the major reasons why Fortnite Battle Royale can be competitive for so many people is due to the cross-platform model Fortnite provides. Cross-platform gaming allows players to compete regardless of their console. This means that a player with a Nintendo Switch can play against someone with an Xbox or PlayStation. This was simply not possible until Fortnite came on the scene and forced the video game industry to allow it [link for story]. Zoe highlighted how cross-platform gaming marks Fortnite as very accessible: “Anyone can play Fortnite because it’s free and it’s on every platform.” She went on to discuss how Fortnite’s ongoing effort to balance the competition by opening the community to a broader player base keeps her engaged with a game that could too easily belong to the “sweaty” 1% of professional players.
+In the collective experience of Fortnite players, the artifact that stands out the most in the community is the competitive dimension of the game. This competition is most immediately on display in Battle Royale, but, for many players, it also extends beyond the game to include the habit of watching professional streamers on YouTube and Twitch as well as the presence of the Fortnite community on platforms like TikTok, Instagram, and Discord. One of the major reasons why Fortnite Battle Royale can be competitive for so many people is due to the cross-platform model Fortnite provides. [Cross-platform gaming](https://www.cutscenesleep.com/blogs/news/from-final-fantasy-to-fortnite-the-evolution-of-cross-platform-gaming?srsltid=AfmBOorksz8-r2bwKL9wNGt3DXU2VPZrKJLI53WthDTj32GHd9RNBFFU) allows players to compete regardless of their console. This means that a player with a Nintendo Switch can play against someone with an Xbox or PlayStation in the same game. This was simply not possible until Fortnite came on the scene and forced the video game industry to allow it. Zoe highlighted how cross-platform gaming marks Fortnite as very accessible: “Anyone can play Fortnite because it’s free and it’s on every platform.” She went on to discuss how Fortnite’s ongoing effort to balance the competition by opening the community to a broader player base keeps her engaged with a game that could too easily belong to the “sweaty” 1% of professional players.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
-	label="Louisiana - U.S. Department of Agriculture Exprimental Pecan Farm"
-	description="contained pecan farm in Louisiana, 1917-1964"
-	license="CC0"
+	url="https://www.setup.gg/wp-content/uploads/2024/01/Fortnite-Cross-Platform.jpg"
+	label="Fortnite's cross-platform compatability"
+	description="Image of Cross-Platform Options for Fortnite"
+	license="Copyright 2024 by Jory Hollander"
 	fit="contain">
+<param ve-iframe
+	label="Fortnite Streamer Bush Camp Dad showing his unique playing style"
+	description="Fortnite Streamer Bush Camp Dad Youtube Short"
+	license="Public Domain"
+	src="https://www.youtube.com/embed/j6wOAOo75D4">
 
 *Zoe highlights how Fortnite is able to engage a broader player base.*
 <param ve-iframe
@@ -184,12 +189,11 @@ The element of communal competition was highlighted by Juan and Noah. For exampl
 	fit="contain">
 
 Fortnite participants also engage online via social media by sharing and viewing clips from their performances on the battlefield, engaging in commentary on the game or certain players, and watching professional streamers on YouTube or Twitch. While Zoe and Demi admitted that their engagement with the Fortnite community is more interested in the social, pop culture, and aesthetic dimensions, Noah and Juan spoke of their engagement with Fortnite outside of the game itself. For example, Noah shared that people playing Fortnite is one regular item that shows up on his TikTok feed. For him, this engagement with Fortnite on platforms like TikTok increases his “excitement” at playing the game. Jaun also spoke about viewing Fortnite community content on social media, admitting that “Fortnite streamers” will show up on his feed and “sometimes I’ll watch them play.” The dynamic circle of playing online, watching others play, and talking about playing creates a discourse continuum for Fortnite participants which both builds Fortnite vocabulary and promotes a sense of belonging to the broader community of Fortnite gamers. According to all the interviewees, the practice of watching other people play or talk about Fortnite is a regular feature of the Fortnite community.
-<param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
-	label="Louisiana - U.S. Department of Agriculture Exprimental Pecan Farm"
-	description="contained pecan farm in Louisiana, 1917-1964"
-	license="CC0"
-	fit="contain">
+<param ve-iframe
+	label="Fortnite Streamer Bush Camp Dad showing his unique playing style"
+	description="Fortnite Streamer Bush Camp Dad Youtube Short"
+	license="Public Domain"
+	src="https://www.youtube.com/embed/j6wOAOo75D4">
 
 #### Conclusion
 
