@@ -149,7 +149,7 @@ Part of the appeal of Fortnite for its participants is that the skins allow for 
 	label="Peely the Banana"
 	description="Peely the Banana"
 	license="CC BY-SA 2.0"
-	zoom="3">
+	zoom="-2">
 
 Another aspect of engagement for players is that Fortnite is virtually always changing, updating, and creating content. One of the places where things shift and change often is the in-game shop, where skins are regularly added and removed from the virtual rack. Of course, this is part of Fortnite’s business model, creating a scarcity effect through a limited-time-only approach.  Yet, for fans, this constant change keeps the game interesting. For example, Juan stated that this constant updating and blending of pop culture content “keeps my attention because there’s always something new.” Moreover, as Juan indicated before, purchasing skins solidifies membership in the community, as “Skins are a status symbol among the young generation.”  By dressing their avatar in their favorite skins (rather than playing with the Fortnite stock character), Fortnite players gain a sense of belonging in the community and show their opponents that they are real gamers.
 <param ve-image
