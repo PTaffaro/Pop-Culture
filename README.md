@@ -135,6 +135,8 @@ Even more attractive for players is the opportunity to purchase new and unique o
 	description="Fortnite cover including Peter Griffin"
 	license="CC BY-SA 2.0"
 	fit="contain">
+1525,287,363,346
+
 
 *Zoe's response to the Fortnite stereotype.*
 <param ve-iframe
