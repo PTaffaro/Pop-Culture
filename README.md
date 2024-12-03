@@ -48,7 +48,7 @@ One of the major artifacts from the Fortnite community is the virtual phenomenon
 <param ve-image
 	url="https://static.wikia.nocookie.net/fortnite/images/3/35/Silk_Sonic_Bundle_%285%29_-_Item_Shop_Bundle_-_Fortnite.png/revision/latest?cb=20220203202320"
 	label="Featured Fortnite characters Bruno Mars and Anderson .Paak"
-	license="CC0"
+	license="CC BY-SA 2.0"
 	fit="contain">
 
 Alternatively, Demi recounted some of the events which she has participated in during her own Fortnite engagement. She shared: “So I'd wake up at like 8 AM just to watch like Inception on Fortnite with my friends…it was like you were watching your character watch the movie on a screen.”  In fact, Fortnite has screened other films during an event known as “Movie Nite,” including Christopher Nolan’s The Dark Knight and The Prestige.  Demi also mentioned how she attended a live in-game concert hosted by Ariana Grande “that happened when I was in high school.” Interestingly, while she acknowledged that it is kind of “weird” to watch your avatar watch something real or live, she emphasized: “I honestly just love having like a place to like connect with my friends, even if I can't connect with them in person.”
@@ -69,34 +69,35 @@ To give an idea of the scale of these virtual social events, we can point out so
 
 Additionally, Travis Scott hosted a [live in-game concert](https://www.youtube.com/watch?v=wYeFAlVC8qU) with Fortnite that boasted a staggering 12.3 million viewers.  Moreover, because of the freemium business model Fortnite proffers, these concerts are among the plethora of free activities. This capacity of Fortnite to offer free opportunities for massive online connection adds to the game’s communal dimension. As Rick Marlatt observes, “Rather than operating as individuals in isolated structures, participation in Fortnite implies active communal membership in the game’s ever-expanding, global neighborhood.”  For Noah and Demi, as well as for the others, Fortnite has been a site of communal fun as they enjoy popular culture movies and music mediated through an experience of gameplay.
 <param ve-image
-	url="https://github.com/user-attachments/assets/72fb35dc-6fb1-4f32-9e4a-ef739fb11998"
-	label="A shot of Travis Scott during his live in-game concert in 2021"
-	description="Travis Scott concert"
-	license="Need permissions!!"
+	url="https://static.wikia.nocookie.net/fortnite/images/e/e7/Astronomical_-_Mode_-_Fortnite.png/revision/latest?cb=20210104194254"
+	label="Travis Scott Fortnite character unveiled at his in-game concert in 2021"
+	description="Travis Scott Event"
+	license="CC BY-SA 2.0"
 	fit="contain">
        
 #### Emotes: "the goofiness in the game itself"
 Another significant part of the Fortnite experience is the countless emotes available to players. Emotes are dances or gestures that players can make their avatars perform in the game. The dances are accompanied by music, and some of them can even be done as a duet with other players. These dances and gestures help provide the Fortnite community with a way to interact with one another in and outside the game. It is, as Noah puts it, part of “the absurdity” and “the goofiness of the game itself.” These emotes are intimately tied to popular media scrolling platforms such as TikTok and Instagram. In fact, according to Ali Johnson and Lauren Hutton-work, there have even been lawsuits concerning whether Fortnite violated copyright law in creating equivalents to many popular TikTok or Instagram dances in the mainstream media.  For our conversation, it is enough to recognize that this conflict results from the interrelationship between mainstream pop culture and the Fortnite community.
+<param ve-image
+	url="https://static.wikia.nocookie.net/fortnite/images/b/b1/Emotes_-_Icon_-_Fortnite.png/revision/latest?cb=20210227170214"
+	label="Fortnite Icon for the original Dance Moves emote"
+	description="Fortnite Emote Icon"
+	license="CC BY-SA 2.0"
+	fit="contain">
+
+During one interview, Juan playfully told me about his enjoyment of the emote feature of the game. He said that one of his favorite emotes plays Rick Astley’s “Never Gonna Give You Up” while the avatar performs “this dance from the music video from the 80s,” which, he says, “was made for people of my generation.” He also shared that there are at least three ways people tend to utilize the emote feature. The first way is when players eliminate another player. To celebrate their momentary triumph and to taunt the other player (whose screen is now viewing the player who eliminated them), most players play their favorite emote. A second way emotes are used is to acknowledge defeat in a one-on-one battle. He said that sometimes a player will “bow down” to the other by halting fire and beginning to dance. Finally, a third use for emotes comes when someone wins. There is a Victory Royale “icon that pops up, and there’s this whole like sound that goes with it.” Many players utilize this moment of victory to celebrate with their favorite emote. Juan noted further that players usually have certain emotes that they like to use for certain situations, which serves to add to their sense of personal gamer identity.
+<param ve-image
+	url="https://static.wikia.nocookie.net/fortnite/images/1/1e/VictoryRoyaleSlate.png/revision/latest?cb=20220329154427"
+	label="Victory Royale banner that appears when you win"
+	description="Victory Royale Banner"
+	license="CC BY-SA 2.0"
+	fit="contain">
+
+Not everyone, however, is drawn to using emotes in the context of competition. Demi, for example, talked about her memories associated with doing Fortnite emotes in real life. She said that there was one dance in particular, called the “Orange Justice,” which she and her friends used to try to do. In fact, she noted that, of all the aspects of Fortnite, “the dances are like the main things that like I’ll come across like in the wild.” In this way, Demi highlights something intriguing about the Fortnite community: the relationship between pop culture and Fortnite is like a two-way street. But the fact that she refers to reality as “the wild” presupposes the way the virtual world of Fortnite occupies a space of natural belonging for many people in relation to pop culture artifacts. For Demi, it is natural to see emotes in the game but finding them outside the gameworld registers as strange, revealing that Fortnite players experience the game as a real social context.
 <param ve-iframe
 	label="Fortnite dances in real life"
 	description="Fortnite dances in real life"
 	license="Public Domain"
 	src="https://www.youtube.com/embed/wwXhm5F6Zcc">
-
-During one interview, Juan playfully told me about his enjoyment of the emote feature of the game. He said that one of his favorite emotes plays Rick Astley’s “Never Gonna Give You Up” while the avatar performs “this dance from the music video from the 80s,” which, he says, “was made for people of my generation.” He also shared that there are at least three ways people tend to utilize the emote feature. The first way is when players eliminate another player. To celebrate their momentary triumph and to taunt the other player (whose screen is now viewing the player who eliminated them), most players play their favorite emote. A second way emotes are used is to acknowledge defeat in a one-on-one battle. He said that sometimes a player will “bow down” to the other by halting fire and beginning to dance. Finally, a third use for emotes comes when someone wins. There is a Victory Royale “icon that pops up, and there’s this whole like sound that goes with it.” Many players utilize this moment of victory to celebrate with their favorite emote. Juan noted further that players usually have certain emotes that they like to use for certain situations, which serves to add to their sense of personal gamer identity.
-<param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/c/c1/St._James_Parish_-_Oak_Alley_Plantation_-_20220730134916.jpg"
-	rotate="180"
-	label="Slave Quarters at Oak Alley"
-	description="Photo of the Living Quaters at Oak Alley Plantation"
-	license="CC0">
-
-Not everyone, however, is drawn to using emotes in the context of competition. Demi, for example, talked about her memories associated with doing Fortnite emotes in real life. She said that there was one dance in particular, called the “Orange Justice,” which she and her friends used to try to do. In fact, she noted that, of all the aspects of Fortnite, “the dances are like the main things that like I’ll come across like in the wild.” In this way, Demi highlights something intriguing about the Fortnite community: the relationship between pop culture and Fortnite is like a two-way street. But the fact that she refers to reality as “the wild” presupposes the way the virtual world of Fortnite occupies a space of natural belonging for many people in relation to pop culture artifacts. For Demi, it is natural to see emotes in the game but finding them outside the gameworld registers as strange, revealing that Fortnite players experience the game as a real social context.
-<param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Centennial_Exhibition%2C_Opening_Day.jpg/1600px-Centennial_Exhibition%2C_Opening_Day.jpg?20130904002231"
-	label="Centennial Exposition in Philadelphia, 1876"
-	description="Illustration of Centennial Exposition"
-	license="CC0">
 
 *Juan discusses the pop culture engagment of Fortnite.*
 <param ve-iframe
@@ -107,10 +108,15 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Centennial_Exhibi
 
 Emotes are also an important part of the business model of Fortnite, as players can purchase specific dances from the in-game shop by using the game currency known as “V-Bucks.” As Tibo Shober and Georg Stadtmann highlight, “While the game can be downloaded and played free of charge, an in-game-shop offers a variety of uniforms (‘skins’), parachutes (‘gliders’), or dance moves (‘emotes’).”  Moreover, Shober and Stadtmann explain that “Fortnite picked the right conversion rates to create a high degree of ‘money illusion’” among players, which means that players are disconnected from the actual cost of items in the shop because they are making purchases with a foreign virtual currency.  This illusory financial experience among players pairs with players’ attraction to utilizing cartoon-like emotes, which, for Juan, “lends to being able to talk to people about it in a casual way, and kind of a fun way.” This urge to be a part of the conversation is something that Fortnite seems to tap into in attracting so many players to financially invest in their place in the Fortnite community.
 <param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Centennial_Exhibition%2C_Opening_Day.jpg/1600px-Centennial_Exhibition%2C_Opening_Day.jpg?20130904002231"
-	label="Centennial Exposition in Philadelphia, 1876"
-	description="Illustration of Centennial Exposition"
-	license="CC0">
+	url="https://static.wikia.nocookie.net/fortnite/images/5/54/Royale_Originals_Item_Shop.png/revision/latest?cb=20240825111034"
+	label="In-game shop where players can purchase items using V-Bucks"
+	description="Item shop in Fortnite"
+	license="CC BY-SA 2.0">
+ <param ve-image
+	url="https://static.wikia.nocookie.net/fortnite/images/9/91/Take_Your_Stage_Item_Shop.png/revision/latest?cb=20240825111709"
+	label="In-game shop where players can purchase items using V-Bucks"
+	description="Item shop in Fortnite"
+	license="CC BY-SA 2.0">
 
 *Demi shares her experience of playing with friends and pop culture on Fortnite.*
 <param ve-iframe
