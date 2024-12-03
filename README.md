@@ -1,8 +1,8 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
-       title="The Fortnite Community"
-       author="Paolo Taffaro"
+       title="The Absurd, Cartoonish, and Pop Culture Fun of the Fortnite Community"
+       author="By Paolo Taffaro"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/People_playing_Fortnite_at_E3_2018.jpg/1458px-People_playing_Fortnite_at_E3_2018.jpg?20180714053943"
 	license="CC BY-SA 2.0"
        layout="vertical">
