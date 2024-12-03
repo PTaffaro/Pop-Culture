@@ -145,11 +145,11 @@ Even more attractive for players is the opportunity to purchase new and unique o
 
 Part of the appeal of Fortnite for its participants is that the skins allow for blending of pop culture artifacts. Noah, for instance, stated that Fortnite is “a place where I think there's a huge blending of the pop culture so like you could be Iron Man, but you're like dancing to a Bruno Mars song.” This capacity to blend pop culture characters, music, and dances adds to the fun and silliness of the cartoon feel. For this reason, Zoe praised the game, saying, “It doesn’t seem like the game cares about anything except like being fun.” Juan also shared this sensibility. When asked what makes the game so attractive, he said, “You can be a fish, or you can be a banana. It doesn't matter. You can play as any character, and you can dance.” For all the interviewees, whether they play as Peter Griffin, Bruno Mars, or a banana, the absurdity of using pop culture likenesses and dances while participating in an unrealistic, cartoony fight to the death with friends makes Fortnite a place where they can be silly and goofy. As Demi put it, “It’s just fun that way.”
 <param ve-image
-	url="https://static.wikia.nocookie.net/fortnite/images/f/fc/Peely_%28v30.00%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20240524202045"
+	url="https://static.wikia.nocookie.net/fortnite/images/e/eb/Peely_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20220320154954"
 	label="Peely the Banana"
 	description="Peely the Banana"
 	license="CC BY-SA 2.0"
-	zoom="-2">
+	fit="contain">
 
 Another aspect of engagement for players is that Fortnite is virtually always changing, updating, and creating content. One of the places where things shift and change often is the in-game shop, where skins are regularly added and removed from the virtual rack. Of course, this is part of Fortnite’s business model, creating a scarcity effect through a limited-time-only approach.  Yet, for fans, this constant change keeps the game interesting. For example, Juan stated that this constant updating and blending of pop culture content “keeps my attention because there’s always something new.” Moreover, as Juan indicated before, purchasing skins solidifies membership in the community, as “Skins are a status symbol among the young generation.”  By dressing their avatar in their favorite skins (rather than playing with the Fortnite stock character), Fortnite players gain a sense of belonging in the community and show their opponents that they are real gamers.
 <param ve-image
