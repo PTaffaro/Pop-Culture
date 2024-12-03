@@ -51,10 +51,10 @@ My investigation utilized a methodological approach which combined three types o
 #### Events: "watching your character watch"
 One of the major artifacts from the Fortnite community is the virtual phenomenon of in-game events. These events are either live or limited time moments when players can participate in activities such as concerts, map changes, and character unveilings. For example, Noah brought up his experience of engaging with the Silk Sonic feature and the subsequent unveiling of Bruno Mars and Anderson .Paak as characters in the game. He said that events and subsequent unveilings like this help to keep the game “fun and fresh.” Noah also added that Fortnite has added so much actual pop culture music that “there’s even a radio station.” Players can actually listen to this radio station while they drive cars during gameplay or wait in the pre-game lobby.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/2/23/Expedition_Cabeza_de_Vaca_Karte.png"
-	label="Mao of Cabeza de Vaca Expedition"
+	url="https://static.wikia.nocookie.net/fortnite/images/3/35/Silk_Sonic_Bundle_%285%29_-_Item_Shop_Bundle_-_Fortnite.png/revision/latest?cb=20220203202320"
+	label="Featured Fortnite characters Bruno Mars and Anderson .Paak"
 	license="CC0"
-	region="424,-301,1577,1509">
+	fit="contain">
 
 Alternatively, Demi recounted some of the events which she has participated in during her own Fortnite engagement. She shared: “So I'd wake up at like 8 AM just to watch like Inception on Fortnite with my friends…it was like you were watching your character watch the movie on a screen.”  In fact, Fortnite has screened other films during an event known as “Movie Nite,” including Christopher Nolan’s The Dark Knight and The Prestige.  Demi also mentioned how she attended a live in-game concert hosted by Ariana Grande “that happened when I was in high school.” Interestingly, while she acknowledged that it is kind of “weird” to watch your avatar watch something real or live, she emphasized: “I honestly just love having like a place to like connect with my friends, even if I can't connect with them in person.”
 <param ve-image
