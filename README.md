@@ -72,7 +72,7 @@ Additionally, Travis Scott hosted a [live in-game concert](https://www.youtube.c
 	url="https://github.com/user-attachments/assets/72fb35dc-6fb1-4f32-9e4a-ef739fb11998"
 	label="A shot of Travis Scott during his live in-game concert"
 	description="Travis Scott concert"
-	license="?"
+	license="Courtesy of Tatiana Cirisano"
 	fit="contain">
        
 #### Emotes: "the goofiness in the game itself"
